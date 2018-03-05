@@ -1,0 +1,2 @@
+Para cambiar el icono de escritorio
+debemos cambiar aquí la imagen
